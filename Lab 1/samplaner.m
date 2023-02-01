@@ -9,8 +9,8 @@ function ut=samplaner(in)
 % 1.
 %% Who has done it:
 %
-% Author: Philip Robertsson - phiro138
-% Author: Alma Linder - almli825
+% 
+%
 %
 %% Syntax of the function
 %      Input arguments:
